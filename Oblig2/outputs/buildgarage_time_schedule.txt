@@ -1,0 +1,73 @@
+Time: 0
+Starting: get-paperwork
+Current staff: 1
+-------------------------------
+Time: 14280
+Finished: get-paperwork
+Starting: clean-yard
+Current staff: 3
+-------------------------------
+Time: 230178
+Starting: call-contractor
+Current staff: 4
+-------------------------------
+Time: 230182
+Finished: call-contractor
+Finished: clean-yard
+Starting: build-foundation
+Current staff: 2
+-------------------------------
+Time: 262316
+Finished: build-foundation
+Starting: build-wall-support
+Current staff: 4
+-------------------------------
+Time: 303548
+Finished: build-wall-support
+Starting: build-stairs
+Current staff: 2
+-------------------------------
+Time: 307873
+Finished: build-stairs
+Starting: add-2nd-floor
+Current staff: 4
+-------------------------------
+Time: 383219
+Starting: build-walls
+Current staff: 8
+-------------------------------
+Time: 389346
+Finished: build-walls
+Starting: add-gate
+Current staff: 7
+-------------------------------
+Time: 429351
+Finished: add-2nd-floor
+Starting: isolate-room
+Current staff: 6
+-------------------------------
+Time: 430593
+Finished: isolate-room
+Starting: furnish-appartment
+Current staff: 5
+-------------------------------
+Time: 443653
+Starting: call-electrician
+Current staff: 6
+-------------------------------
+Time: 443668
+Finished: call-electrician
+Finished: add-gate
+Starting: install-electrical-gate-opener
+Current staff: 4
+-------------------------------
+Time: 484771
+Starting: lay-electrical-cables
+Current staff: 5
+-------------------------------
+Time: 484913
+Finished: lay-electrical-cables
+Finished: furnish-appartment
+Finished: install-electrical-gate-opener
+Current staff: 0
+-------------------------------

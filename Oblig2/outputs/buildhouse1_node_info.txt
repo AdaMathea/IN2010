@@ -1,0 +1,66 @@
+Identity number: 1
+	 Task: Build-walls
+	 Time: 4
+	 Staff: 2
+	 Earliest starting time: 4
+	 Slack: 0
+	 Dependendt tasks: 3
+	 Dependendt tasks: 2
+-------------------------------
+Identity number: 2
+	 Task: Build-roofs
+	 Time: 6
+	 Staff: 4
+	 Earliest starting time: 8
+	 Slack: 0
+	 Dependendt tasks: 7
+	 Dependendt tasks: 4
+	 Dependendt tasks: 3
+-------------------------------
+Identity number: 3
+	 Task: Put-on-wallpapers
+	 Time: 1
+	 Staff: 2
+	 Earliest starting time: 14
+	 Slack: 3
+	 Dependendt tasks: 8
+-------------------------------
+Identity number: 4
+	 Task: Put-on-tiles
+	 Time: 1
+	 Staff: 3
+	 Earliest starting time: 14
+	 Slack: 7
+-------------------------------
+Identity number: 5
+	 Task: Build-foundation
+	 Time: 4
+	 Staff: 2
+	 Earliest starting time: 0
+	 Slack: 0
+	 Dependendt tasks: 6
+	 Dependendt tasks: 1
+-------------------------------
+Identity number: 6
+	 Task: Make-floor
+	 Time: 2
+	 Staff: 2
+	 Earliest starting time: 4
+	 Slack: 8
+	 Dependendt tasks: 7
+-------------------------------
+Identity number: 7
+	 Task: Put-carpet-floor
+	 Time: 4
+	 Staff: 2
+	 Earliest starting time: 14
+	 Slack: 0
+	 Dependendt tasks: 8
+-------------------------------
+Identity number: 8
+	 Task: Move-in
+	 Time: 4
+	 Staff: 4
+	 Earliest starting time: 18
+	 Slack: 0
+-------------------------------

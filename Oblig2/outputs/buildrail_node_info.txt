@@ -1,0 +1,257 @@
+Identity number: 1
+	 Task: Install-pavement
+	 Time: 20
+	 Staff: 10
+	 Earliest starting time: 186
+	 Slack: 12
+-------------------------------
+Identity number: 2
+	 Task: Install-railing
+	 Time: 7
+	 Staff: 10
+	 Earliest starting time: 5
+	 Slack: 206
+-------------------------------
+Identity number: 3
+	 Task: Install-ticketmachine
+	 Time: 1
+	 Staff: 10
+	 Earliest starting time: 63
+	 Slack: 154
+-------------------------------
+Identity number: 4
+	 Task: Paint-tower-1-with-arch
+	 Time: 15
+	 Staff: 6
+	 Earliest starting time: 119
+	 Slack: 84
+-------------------------------
+Identity number: 5
+	 Task: Paint-tower-2
+	 Time: 12
+	 Staff: 6
+	 Earliest starting time: 124
+	 Slack: 82
+-------------------------------
+Identity number: 6
+	 Task: Paint-trusses
+	 Time: 27
+	 Staff: 6
+	 Earliest starting time: 186
+	 Slack: 5
+-------------------------------
+Identity number: 7
+	 Task: Paint-cables-and-rods
+	 Time: 18
+	 Staff: 6
+	 Earliest starting time: 186
+	 Slack: 14
+-------------------------------
+Identity number: 8
+	 Task: Put-lane-tunnel-and-intersection
+	 Time: 12
+	 Staff: 7
+	 Earliest starting time: 51
+	 Slack: 143
+	 Dependendt tasks: 31
+	 Dependendt tasks: 3
+-------------------------------
+Identity number: 9
+	 Task: Setup-barrack
+	 Time: 3
+	 Staff: 10
+	 Earliest starting time: 0
+	 Slack: 0
+	 Dependendt tasks: 17
+	 Dependendt tasks: 16
+	 Dependendt tasks: 14
+	 Dependendt tasks: 12
+	 Dependendt tasks: 11
+	 Dependendt tasks: 10
+-------------------------------
+Identity number: 10
+	 Task: Prepare-storage
+	 Time: 2
+	 Staff: 4
+	 Earliest starting time: 3
+	 Slack: 206
+	 Dependendt tasks: 2
+-------------------------------
+Identity number: 11
+	 Task: Rig-ramspace-reinforcing
+	 Time: 1
+	 Staff: 4
+	 Earliest starting time: 3
+	 Slack: 5
+	 Dependendt tasks: 20
+	 Dependendt tasks: 19
+	 Dependendt tasks: 18
+-------------------------------
+Identity number: 12
+	 Task: Build-tunnel
+	 Time: 30
+	 Staff: 12
+	 Earliest starting time: 3
+	 Slack: 143
+	 Dependendt tasks: 13
+-------------------------------
+Identity number: 13
+	 Task: Clean-tunnel
+	 Time: 18
+	 Staff: 12
+	 Earliest starting time: 33
+	 Slack: 143
+	 Dependendt tasks: 8
+-------------------------------
+Identity number: 14
+	 Task: Build-intersection
+	 Time: 25
+	 Staff: 12
+	 Earliest starting time: 3
+	 Slack: 146
+	 Dependendt tasks: 15
+-------------------------------
+Identity number: 15
+	 Task: Clean-intersection
+	 Time: 20
+	 Staff: 12
+	 Earliest starting time: 28
+	 Slack: 146
+	 Dependendt tasks: 8
+-------------------------------
+Identity number: 16
+	 Task: Build-towerfoundation-1
+	 Time: 35
+	 Staff: 12
+	 Earliest starting time: 3
+	 Slack: 11
+	 Dependendt tasks: 21
+-------------------------------
+Identity number: 17
+	 Task: Build-towerfoundation-2
+	 Time: 45
+	 Staff: 12
+	 Earliest starting time: 3
+	 Slack: 0
+	 Dependendt tasks: 22
+-------------------------------
+Identity number: 18
+	 Task: Make-armouring-tower-1
+	 Time: 40
+	 Staff: 4
+	 Earliest starting time: 4
+	 Slack: 5
+	 Dependendt tasks: 21
+-------------------------------
+Identity number: 19
+	 Task: Make-armouring-tower-2
+	 Time: 25
+	 Staff: 4
+	 Earliest starting time: 4
+	 Slack: 19
+	 Dependendt tasks: 22
+-------------------------------
+Identity number: 20
+	 Task: Make-armouring-arch
+	 Time: 12
+	 Staff: 4
+	 Earliest starting time: 4
+	 Slack: 140
+	 Dependendt tasks: 23
+-------------------------------
+Identity number: 21
+	 Task: Encase-and-armour-tower-1
+	 Time: 15
+	 Staff: 5
+	 Earliest starting time: 44
+	 Slack: 5
+	 Dependendt tasks: 24
+-------------------------------
+Identity number: 22
+	 Task: Encase-and-armour-tower-2
+	 Time: 16
+	 Staff: 5
+	 Earliest starting time: 48
+	 Slack: 0
+	 Dependendt tasks: 25
+-------------------------------
+Identity number: 23
+	 Task: Encase-and-armour-arch
+	 Time: 30
+	 Staff: 5
+	 Earliest starting time: 16
+	 Slack: 140
+	 Dependendt tasks: 26
+-------------------------------
+Identity number: 24
+	 Task: Cast-tower-1
+	 Time: 60
+	 Staff: 7
+	 Earliest starting time: 59
+	 Slack: 5
+	 Dependendt tasks: 27
+	 Dependendt tasks: 4
+-------------------------------
+Identity number: 25
+	 Task: Cast-tower-2
+	 Time: 60
+	 Staff: 7
+	 Earliest starting time: 64
+	 Slack: 0
+	 Dependendt tasks: 27
+	 Dependendt tasks: 5
+-------------------------------
+Identity number: 26
+	 Task: Cast-arch
+	 Time: 20
+	 Staff: 7
+	 Earliest starting time: 46
+	 Slack: 140
+	 Dependendt tasks: 31
+-------------------------------
+Identity number: 27
+	 Task: Stretch-two-maincables
+	 Time: 25
+	 Staff: 10
+	 Earliest starting time: 124
+	 Slack: 0
+	 Dependendt tasks: 29
+	 Dependendt tasks: 28
+-------------------------------
+Identity number: 28
+	 Task: Build-truss-1-with-rods
+	 Time: 30
+	 Staff: 10
+	 Earliest starting time: 149
+	 Slack: 7
+	 Dependendt tasks: 30
+	 Dependendt tasks: 7
+	 Dependendt tasks: 6
+	 Dependendt tasks: 1
+-------------------------------
+Identity number: 29
+	 Task: Build-truss-2-with-rods
+	 Time: 37
+	 Staff: 10
+	 Earliest starting time: 149
+	 Slack: 0
+	 Dependendt tasks: 30
+	 Dependendt tasks: 7
+	 Dependendt tasks: 6
+	 Dependendt tasks: 1
+-------------------------------
+Identity number: 30
+	 Task: Cast-lane-on-truss
+	 Time: 20
+	 Staff: 7
+	 Earliest starting time: 186
+	 Slack: 0
+	 Dependendt tasks: 31
+-------------------------------
+Identity number: 31
+	 Task: Polish-lane-on-arch
+	 Time: 12
+	 Staff: 7
+	 Earliest starting time: 206
+	 Slack: 0
+-------------------------------

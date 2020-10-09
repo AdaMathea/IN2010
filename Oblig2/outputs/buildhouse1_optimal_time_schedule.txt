@@ -1,0 +1,10 @@
+Task: Build-walls| Start: 4| End: 8
+Task: Build-roofs| Start: 8| End: 14
+Task: Put-on-wallpapers| Start: 14| End: 15
+Task: Put-on-tiles| Start: 14| End: 15
+Task: Build-foundation| Start: 0| End: 4
+Task: Make-floor| Start: 4| End: 6
+Task: Put-carpet-floor| Start: 14| End: 18
+Task: Move-in| Start: 18| End: 22
+-------------------------------
+* Optimal project time is 22 *

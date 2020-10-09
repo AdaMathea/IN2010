@@ -1,0 +1,43 @@
+Time: 0
+Starting: Build-foundation
+Current staff: 2
+-------------------------------
+Time: 4
+Finished: Build-foundation
+Starting: Build-walls
+Current staff: 2
+-------------------------------
+Time: 8
+Finished: Build-walls
+Starting: Build-roofs
+Current staff: 4
+-------------------------------
+Time: 12
+Starting: Make-floor
+Current staff: 6
+-------------------------------
+Time: 14
+Finished: Make-floor
+Finished: Build-roofs
+Starting: Put-carpet-floor
+Current staff: 2
+-------------------------------
+Time: 17
+Starting: Put-on-wallpapers
+Current staff: 4
+-------------------------------
+Time: 18
+Finished: Put-on-wallpapers
+Finished: Put-carpet-floor
+Starting: Move-in
+Current staff: 4
+-------------------------------
+Time: 21
+Starting: Put-on-tiles
+Current staff: 7
+-------------------------------
+Time: 22
+Finished: Put-on-tiles
+Finished: Move-in
+Current staff: 0
+-------------------------------

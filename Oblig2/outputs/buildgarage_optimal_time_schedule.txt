@@ -1,0 +1,16 @@
+Task: get-paperwork| Start: 0| End: 14280
+Task: call-contractor| Start: 14280| End: 14284
+Task: clean-yard| Start: 14280| End: 230182
+Task: build-foundation| Start: 230182| End: 262316
+Task: build-wall-support| Start: 262316| End: 303548
+Task: lay-electrical-cables| Start: 262316| End: 262458
+Task: call-electrician| Start: 262316| End: 262331
+Task: install-electrical-gate-opener| Start: 363997| End: 405242
+Task: build-walls| Start: 303548| End: 309675
+Task: add-gate| Start: 309675| End: 363997
+Task: build-stairs| Start: 303548| End: 307873
+Task: add-2nd-floor| Start: 307873| End: 429351
+Task: isolate-room| Start: 429351| End: 430593
+Task: furnish-appartment| Start: 430593| End: 484913
+-------------------------------
+* Optimal project time is 484913 *

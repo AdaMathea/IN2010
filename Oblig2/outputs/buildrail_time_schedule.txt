@@ -1,0 +1,143 @@
+Time: 0
+Starting: Setup-barrack
+Current staff: 10
+-------------------------------
+Time: 3
+Finished: Setup-barrack
+Starting: Build-towerfoundation-2
+Current staff: 12
+-------------------------------
+Time: 8
+Starting: Rig-ramspace-reinforcing
+Current staff: 16
+-------------------------------
+Time: 9
+Finished: Rig-ramspace-reinforcing
+Starting: Make-armouring-tower-1
+Current staff: 16
+-------------------------------
+Time: 14
+Starting: Build-towerfoundation-1
+Current staff: 28
+-------------------------------
+Time: 23
+Starting: Make-armouring-tower-2
+Current staff: 32
+-------------------------------
+Time: 48
+Finished: Build-towerfoundation-2
+Finished: Make-armouring-tower-2
+Starting: Encase-and-armour-tower-2
+Current staff: 21
+-------------------------------
+Time: 49
+Finished: Build-towerfoundation-1
+Finished: Make-armouring-tower-1
+Starting: Encase-and-armour-tower-1
+Current staff: 10
+-------------------------------
+Time: 64
+Finished: Encase-and-armour-tower-2
+Starting: Cast-tower-2
+Finished: Encase-and-armour-tower-1
+Starting: Cast-tower-1
+Current staff: 14
+-------------------------------
+Time: 124
+Finished: Cast-tower-2
+Finished: Cast-tower-1
+Starting: Stretch-two-maincables
+Current staff: 10
+-------------------------------
+Time: 144
+Starting: Make-armouring-arch
+Current staff: 14
+-------------------------------
+Time: 146
+Starting: Build-tunnel
+Current staff: 26
+-------------------------------
+Time: 149
+Starting: Build-intersection
+Finished: Stretch-two-maincables
+Starting: Build-truss-2-with-rods
+Current staff: 38
+-------------------------------
+Time: 156
+Finished: Make-armouring-arch
+Starting: Encase-and-armour-arch
+Starting: Build-truss-1-with-rods
+Current staff: 49
+-------------------------------
+Time: 174
+Finished: Build-intersection
+Starting: Clean-intersection
+Current staff: 49
+-------------------------------
+Time: 176
+Finished: Build-tunnel
+Starting: Clean-tunnel
+Current staff: 49
+-------------------------------
+Time: 186
+Finished: Encase-and-armour-arch
+Starting: Cast-arch
+Finished: Build-truss-1-with-rods
+Finished: Build-truss-2-with-rods
+Starting: Cast-lane-on-truss
+Current staff: 38
+-------------------------------
+Time: 191
+Starting: Paint-trusses
+Current staff: 44
+-------------------------------
+Time: 194
+Finished: Clean-intersection
+Finished: Clean-tunnel
+Starting: Put-lane-tunnel-and-intersection
+Current staff: 27
+-------------------------------
+Time: 198
+Starting: Install-pavement
+Current staff: 37
+-------------------------------
+Time: 200
+Starting: Paint-cables-and-rods
+Current staff: 43
+-------------------------------
+Time: 203
+Starting: Paint-tower-1-with-arch
+Current staff: 49
+-------------------------------
+Time: 206
+Finished: Put-lane-tunnel-and-intersection
+Finished: Cast-arch
+Starting: Paint-tower-2
+Finished: Cast-lane-on-truss
+Starting: Polish-lane-on-arch
+Current staff: 41
+-------------------------------
+Time: 209
+Starting: Prepare-storage
+Current staff: 45
+-------------------------------
+Time: 211
+Finished: Prepare-storage
+Starting: Install-railing
+Current staff: 51
+-------------------------------
+Time: 217
+Starting: Install-ticketmachine
+Current staff: 61
+-------------------------------
+Time: 218
+Finished: Install-ticketmachine
+Finished: Paint-tower-2
+Finished: Paint-tower-1-with-arch
+Finished: Install-pavement
+Finished: Paint-trusses
+Finished: Paint-cables-and-rods
+Finished: Polish-lane-on-arch
+Finished: Install-railing
+Current staff: 0
+-------------------------------

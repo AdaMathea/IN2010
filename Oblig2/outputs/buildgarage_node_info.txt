@@ -1,0 +1,115 @@
+Identity number: 1
+	 Task: get-paperwork
+	 Time: 14280
+	 Staff: 1
+	 Earliest starting time: 0
+	 Slack: 0
+	 Dependendt tasks: 3
+	 Dependendt tasks: 2
+-------------------------------
+Identity number: 2
+	 Task: call-contractor
+	 Time: 4
+	 Staff: 1
+	 Earliest starting time: 14280
+	 Slack: 215898
+	 Dependendt tasks: 4
+-------------------------------
+Identity number: 3
+	 Task: clean-yard
+	 Time: 215902
+	 Staff: 3
+	 Earliest starting time: 14280
+	 Slack: 0
+	 Dependendt tasks: 4
+-------------------------------
+Identity number: 4
+	 Task: build-foundation
+	 Time: 32134
+	 Staff: 2
+	 Earliest starting time: 230182
+	 Slack: 0
+	 Dependendt tasks: 7
+	 Dependendt tasks: 6
+	 Dependendt tasks: 5
+-------------------------------
+Identity number: 5
+	 Task: build-wall-support
+	 Time: 41232
+	 Staff: 4
+	 Earliest starting time: 262316
+	 Slack: 0
+	 Dependendt tasks: 11
+	 Dependendt tasks: 9
+	 Dependendt tasks: 8
+-------------------------------
+Identity number: 6
+	 Task: lay-electrical-cables
+	 Time: 142
+	 Staff: 1
+	 Earliest starting time: 262316
+	 Slack: 222455
+-------------------------------
+Identity number: 7
+	 Task: call-electrician
+	 Time: 15
+	 Staff: 1
+	 Earliest starting time: 262316
+	 Slack: 181337
+	 Dependendt tasks: 8
+-------------------------------
+Identity number: 8
+	 Task: install-electrical-gate-opener
+	 Time: 41245
+	 Staff: 2
+	 Earliest starting time: 363997
+	 Slack: 79671
+-------------------------------
+Identity number: 9
+	 Task: build-walls
+	 Time: 6127
+	 Staff: 4
+	 Earliest starting time: 303548
+	 Slack: 79671
+	 Dependendt tasks: 13
+	 Dependendt tasks: 10
+-------------------------------
+Identity number: 10
+	 Task: add-gate
+	 Time: 54322
+	 Staff: 3
+	 Earliest starting time: 309675
+	 Slack: 79671
+	 Dependendt tasks: 8
+-------------------------------
+Identity number: 11
+	 Task: build-stairs
+	 Time: 4325
+	 Staff: 2
+	 Earliest starting time: 303548
+	 Slack: 0
+	 Dependendt tasks: 12
+-------------------------------
+Identity number: 12
+	 Task: add-2nd-floor
+	 Time: 121478
+	 Staff: 4
+	 Earliest starting time: 307873
+	 Slack: 0
+	 Dependendt tasks: 13
+-------------------------------
+Identity number: 13
+	 Task: isolate-room
+	 Time: 1242
+	 Staff: 3
+	 Earliest starting time: 429351
+	 Slack: 0
+	 Dependendt tasks: 14
+-------------------------------
+Identity number: 14
+	 Task: furnish-appartment
+	 Time: 54320
+	 Staff: 2
+	 Earliest starting time: 430593
+	 Slack: 0
+-------------------------------
